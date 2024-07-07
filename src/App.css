@@ -1,0 +1,29 @@
+.login-church{
+background-image: url("./assets/login.jpg");
+background-size: cover;
+}
+.is-invalid {
+    border-color: #dc3545;
+  }
+  
+  .invalid-feedback {
+    display: block;
+    width: 100%;
+    margin-top: .25rem;
+    font-size: 80%;
+    color: #dc3545;
+  }
+  .dash-card-h {
+    height: 48vh; /* Adjust height as per your design */
+    max-height: 50vh;
+    overflow: auto;
+  }
+  .nav-link.active{
+    background: #e0ecf5 !important; 
+  }
+  /* .nav.nav-pills .nav-link .active {
+    z-index: 3;
+    color: #344767;
+    border-radius: 0.5rem;
+    background-color: #e0ecf5 !important;
+} */
